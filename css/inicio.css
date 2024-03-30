@@ -198,6 +198,7 @@ li a:hover {
     font-size: 20px;
     width: 850vh;
     overflow: hidden;
+    height: 600px;
 }
 .contenedo2 h2 {
     text-align: left;
@@ -503,13 +504,13 @@ li a:hover {
 
 .model-viewer {
   width: 500px;
-  height: 400px;
-  background-color: #ffffff;
+  height: 300px;
 }
 
 model-viewer {
   width: 100%;
-  height: 100%;
+  height: 80%;
+	background-color: #ffffff;
 }
 
 
